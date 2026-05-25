@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Hello Website</title>
+    <style>
+        body {
+            margin: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background: #111;
+            color: white;
+            font-family: Arial, sans-serif;
+            font-size: 80px;
+        }
+    </style>
+</head>
+<body>
+    Hello
+</body>
+</html>
